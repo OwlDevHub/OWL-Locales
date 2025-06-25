@@ -1,0 +1,14 @@
+{
+  "name": "owl-locales",
+  "version": "1.0.0",
+  "description": "Localization files for THE OWL PROJECT (en, ru, de, es, ja)",
+  "main": "index.js",
+  "type": "module",
+  "files": [
+    "locales/",
+    "index.js"
+  ],
+  "keywords": ["i18n", "locales", "owl", "translations"],
+  "author": "THE OWL PROJECT",
+  "license": "MIT"
+} 
