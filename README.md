@@ -1,19 +1,27 @@
 # owl-locales
 
-Локализации для THE OWL PROJECT (en, ru, de, es, ja)
+Localization for OWL
 
-## Установка
+## Langs:
+
+- en
+- ru
+- de
+- es
+- ja
+
+## Install
 
 ```sh
-yarn add <git-url>
-# или
-npm install <git-url>
+yarn add https://github.com/OwlDevHub/OWL-Locales
+# or
+npm install https://github.com/OwlDevHub/OWL-Locales
 ```
 
-## Использование
+## Usage
 
 ```js
-import { en, ru, de, es, ja } from 'owl-locales';
+import { en, ru, de, es, ja } from "owl-locales";
 
 const resources = {
   en: { translation: en },
@@ -22,4 +30,4 @@ const resources = {
   es: { translation: es },
   ja: { translation: ja },
 };
-``` 
+```
