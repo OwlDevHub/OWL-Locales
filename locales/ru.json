@@ -2,7 +2,7 @@
   "language": "Русский",
   "settings.language": "Язык",
   "settings.theme": "Тема",
-  "settings.appearance": "Обновление",
+  "settings.appearance": "Оформление",
   "settings.general": "Главное",
   "settings.updates": "Обновления",
   "settings.pomodoro": "Pomodoro таймер",
@@ -131,4 +131,4 @@
   "delete": "Удалить",
   "changeColor": "Изменить цвет",
   "open": "Открыть"
-} 
+}
