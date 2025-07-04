@@ -17,7 +17,9 @@
     "breakTime": "Break Time",
     "checkUpdates": "Check for updates",
     "selectTheme": "Select a theme",
-    "selectLanguage": "Select a language"
+    "selectLanguage": "Select a language",
+    "selectFont": "Select a font",
+    "font": "Font"
   },
   "stats" :{
     "projects": "You have {{started}}% started and {{done}}% completed projects",

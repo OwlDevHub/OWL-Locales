@@ -11,6 +11,8 @@
   "settings.checkUpdates": "Проверить на наличие обновленй",
   "settings.selectTheme": "Выберите тему",
   "settings.selectLanguage": "Выберите язык",
+  "settings.selectFont": "Выберите шрифт",
+  "settings.font": "Шрифт",
   "greeting.morning": "Доброе\nутро",
   "greeting.afternoon": "Добрый\nдень",
   "greeting.evening": "Добрый\nвечер",

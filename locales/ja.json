@@ -17,7 +17,9 @@
     "breakTime": "休憩時間",
     "checkUpdates": "アップデートを確認",
     "selectTheme": "テーマを選択",
-    "selectLanguage": "言語を選択"
+    "selectLanguage": "言語を選択",
+    "selectFont": "フォントを選択",
+    "font": "フォント"
   },
   "stats": {
     "projects": "{{started}}%のプロジェクトが開始され、{{done}}%が完了しました",
