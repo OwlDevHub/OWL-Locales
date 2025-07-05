@@ -80,6 +80,7 @@
     "Fri": "Fri",
     "Sat": "Sat"
   },
+  "on_today": "今日のために",
   "welcome": "OWLへようこそ",
   "success": "成功",
   "error": "エラー",

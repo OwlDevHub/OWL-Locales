@@ -80,6 +80,7 @@
     "Fri": "Fri",
     "Sat": "Sat"  
   },
+  "on_today": "For today",
   "welcome": "Welcome to OWL",
   "success": "Success",
   "error": "Error",
