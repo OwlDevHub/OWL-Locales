@@ -21,11 +21,13 @@
     "selectFont": "Выбрать шрифт",
     "font": "Шрифт"
   },
-  "stats" :{
+  "stats": {
     "projects": "Проектов: {{started}}% начато, {{done}}% завершено",
     "tasks": "Незавершённых задач: {{not_completed}} ({{not_completed_progress}}%)"
   },
   "projects": {
+    "board": "Доска задач",
+    "link": "Ссылка на проект",
     "projects": "Проекты",
     "noSorting": "Без сортировки",
     "sortByStatus": "Сортировать по статусу",
@@ -78,7 +80,7 @@
     "Wed": "Ср",
     "Thu": "Чт",
     "Fri": "Пт",
-    "Sat": "Сб"  
+    "Sat": "Сб"
   },
   "on_today": "На сегодня",
   "welcome": "Добро пожаловать в OWL",

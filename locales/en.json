@@ -21,11 +21,13 @@
     "selectFont": "Select a font",
     "font": "Font"
   },
-  "stats" :{
+  "stats": {
     "projects": "You have {{started}}% started and {{done}}% completed projects",
     "tasks": "You have {{not_completed}} ({{not_completed_progress}}%) tasks not completed"
   },
   "projects": {
+    "board": "Tasks board",
+    "link": "Link to project",
     "projects": "Projects",
     "noSorting": "No Sorting",
     "sortByStatus": "Sort by Status",
@@ -78,7 +80,7 @@
     "Wed": "Wed",
     "Thu": "Thu",
     "Fri": "Fri",
-    "Sat": "Sat"  
+    "Sat": "Sat"
   },
   "on_today": "For today",
   "welcome": "Welcome to OWL",
@@ -184,4 +186,4 @@
   "noAchievementsYet": "No achievements yet",
   "startWorking": "Start working",
   "completeProjects": "Complete projects"
-} 
+}
