@@ -19,7 +19,9 @@
     "selectTheme": "Select a theme",
     "selectLanguage": "Select a language",
     "selectFont": "Select a font",
-    "font": "Font"
+    "font": "Font",
+    "contacts": "Contacts",
+    "support": "Tech Support"
   },
   "stats": {
     "projects": "You have {{started}}% started and {{done}}% completed projects",

@@ -19,7 +19,9 @@
     "selectTheme": "Выбрать тему",
     "selectLanguage": "Выбрать язык",
     "selectFont": "Выбрать шрифт",
-    "font": "Шрифт"
+    "font": "Шрифт",
+    "contacts": "Контакты",
+    "support": "Тех поддержка"
   },
   "stats": {
     "projects": "Проектов: {{started}}% начато, {{done}}% завершено",
