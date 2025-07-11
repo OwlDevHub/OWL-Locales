@@ -19,7 +19,8 @@
     "selectTheme": "テーマを選択",
     "selectLanguage": "言語を選択",
     "selectFont": "フォントを選択",
-    "font": "フォント"
+    "font": "フォント",
+    "public_account": "公開アカウント"
   },
   "stats": {
     "projects": "{{started}}%のプロジェクトが開始され、{{done}}%が完了しました",

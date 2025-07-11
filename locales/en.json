@@ -21,7 +21,8 @@
     "selectFont": "Select a font",
     "font": "Font",
     "contacts": "Contacts",
-    "support": "Tech Support"
+    "support": "Tech Support",
+    "public_account": " Public account"
   },
   "stats": {
     "projects": "You have {{started}}% started and {{done}}% completed projects",

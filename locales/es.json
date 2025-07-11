@@ -19,7 +19,8 @@
         "selectTheme": "Seleccionar tema",
         "selectLanguage": "Seleccionar idioma",
         "selectFont": "Seleccionar fuente",
-        "font": "Fuente"
+        "font": "Fuente",
+        "public_account": "Cuenta pública"
     },
     "stats": {
         "projects": "Tienes {{started}}% proyectos iniciados y {{done}}% completados",

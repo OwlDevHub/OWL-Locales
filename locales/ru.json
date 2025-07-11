@@ -21,7 +21,8 @@
     "selectFont": "Выбрать шрифт",
     "font": "Шрифт",
     "contacts": "Контакты",
-    "support": "Тех поддержка"
+    "support": "Тех поддержка",
+    "public_account": " Публичный аккаунт"
   },
   "stats": {
     "projects": "Проектов: {{started}}% начато, {{done}}% завершено",

@@ -19,7 +19,8 @@
         "selectTheme": "Design auswählen",
         "selectLanguage": "Sprache auswählen",
         "selectFont": "Schriftart auswählen",
-        "font": "Schriftart"
+        "font": "Schriftart",
+        "public_account": "Öffentliches Konto"
     },
     "stats": {
         "projects": "Sie haben {{started}}% begonnene und {{done}}% abgeschlossene Projekte",
