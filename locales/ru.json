@@ -29,6 +29,7 @@
     "tasks": "Незавершённых задач: {{not_completed}} ({{not_completed_progress}}%)"
   },
   "projects": {
+    "members": "Участники",
     "board": "Доска задач",
     "link": "Ссылка на проект",
     "projects": "Проекты",

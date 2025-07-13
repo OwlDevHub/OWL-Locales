@@ -29,6 +29,7 @@
     "tasks": "You have {{not_completed}} ({{not_completed_progress}}%) tasks not completed"
   },
   "projects": {
+    "members": "Members",
     "board": "Tasks board",
     "link": "Link to project",
     "projects": "Projects",
