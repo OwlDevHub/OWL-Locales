@@ -189,5 +189,17 @@
   "projectAchievements": "Project Achievements",
   "noAchievementsYet": "No achievements yet",
   "startWorking": "Start working",
-  "completeProjects": "Complete projects"
+  "completeProjects": "Complete projects",
+  "sync": {
+    "syncing": "Syncing...",
+    "lastSync": "Last sync:",
+    "error": "Sync error",
+    "forceSync": "Force sync",
+    "resetSync": "Reset sync state",
+    "never": "never",
+    "justNow": "just now",
+    "minutesAgo": "{{minutes}} min ago",
+    "hoursAgo": "{{hours}} hours ago",
+    "daysAgo": "{{days}} days ago"
+  }
 }

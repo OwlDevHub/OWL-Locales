@@ -190,6 +190,18 @@
   "noAchievementsYet": "Пока нет достижений",
   "startWorking": "Начните работать",
   "completeProjects": "Завершите проекты",
+  "sync": {
+    "syncing": "Синхронизация...",
+    "lastSync": "Последняя синхронизация:",
+    "error": "Ошибка синхронизации",
+    "forceSync": "Принудительная синхронизация",
+    "resetSync": "Сбросить состояние синхронизации",
+    "never": "никогда",
+    "justNow": "только что",
+    "minutesAgo": "{{minutes}} мин. назад",
+    "hoursAgo": "{{hours}} ч. назад",
+    "daysAgo": "{{days}} дн. назад"
+  },
   "achievements": {
     "title": "Достижения",
     "all": "Все",
