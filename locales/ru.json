@@ -1,5 +1,7 @@
 {
   "language": "Русский",
+  "createNewBoardAndStartWork": "Создайте новую доску для работы",
+  "clickToCreateNewProject": "Нажмите на '+' для создания нового проекта",
   "greeting": {
     "morning": "Доброе\nутро",
     "afternoon": "Добрый\nдень",

@@ -1,5 +1,7 @@
 {
   "language": "English",
+  "createNewBoardAndStartWork": "CREATE NEW BOARD FOR WORK",
+  "clickToCreateNewProject": "Click on '+' to create new project",
   "greeting": {
     "morning": "Good\nmorning",
     "afternoon": "Good\nafternoon",
