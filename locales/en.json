@@ -152,6 +152,8 @@
   "delete": "Delete",
   "changeColor": "Change color",
   "open": "Open",
+  "linkNotFound": "Link not found",
+  "openSourceCode": "Open source code",
   "gamification": {
     "level": "Level",
     "experience": "Experience",

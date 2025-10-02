@@ -152,6 +152,8 @@
   "delete": "Удалить",
   "changeColor": "Изменить цвет",
   "open": "Открыть",
+  "linkNotFound": "Ссылка на страницу проекта не найдена",
+  "openSourceCode": "Открыть страницу проекта",
   "gamification": {
     "level": "Уровень",
     "experience": "Опыт",
