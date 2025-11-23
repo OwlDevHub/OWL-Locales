@@ -117,6 +117,7 @@
   "login": "Anmelden",
   "loggingIn": "Anmeldung läuft...",
   "createAccount": "Konto erstellen",
+  "deleteAccount": "Konto löschen",
   "username": "Benutzername",
   "confirmPassword": "Passwort bestätigen",
   "terms": "NUTZUNGSBEDINGUNGEN",

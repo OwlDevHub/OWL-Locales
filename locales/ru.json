@@ -117,6 +117,7 @@
   "login": "Войти",
   "loggingIn": "Вход...",
   "createAccount": "Создать аккаунт",
+  "deleteAccount": "Удалить аккаунт",
   "username": "Имя пользователя",
   "confirmPassword": "Подтвердите пароль",
   "terms": "УСЛОВИЯ",

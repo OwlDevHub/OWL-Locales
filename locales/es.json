@@ -117,6 +117,7 @@
   "login": "Iniciar sesión",
   "loggingIn": "Iniciando sesión...",
   "createAccount": "Crear cuenta",
+  "deleteAccount": "Eliminar cuenta",
   "username": "Nombre de usuario",
   "confirmPassword": "Confirmar contraseña",
   "terms": "TÉRMINOS",

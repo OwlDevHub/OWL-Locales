@@ -117,6 +117,7 @@
   "login": "Log in",
   "loggingIn": "Logging in...",
   "createAccount": "Create account",
+  "deleteAccount": "Delete Account",
   "username": "Username",
   "confirmPassword": "Confirm password",
   "terms": "TERMS",

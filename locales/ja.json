@@ -117,6 +117,7 @@
   "login": "[translate:ログイン]",
   "loggingIn": "[translate:ログイン中...]",
   "createAccount": "[translate:アカウント作成]",
+  "deleteAccount": "translate:アカウントの削除]",
   "username": "[translate:ユーザー名]",
   "confirmPassword": "[translate:パスワード確認]",
   "terms": "[translate:利用規約]",
