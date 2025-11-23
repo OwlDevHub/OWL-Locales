@@ -1,12 +1,12 @@
 {
   "language": "日本語",
-  "createNewBoardAndStartWork": "作業用の新しいボードを作成",
-  "clickToCreateNewProject": "新しいプロジェクトを作成するには「＋」をクリックしてください",
+  "createNewBoardAndStartWork": "新しいボードを作成して作業を開始",
+  "clickToCreateNewProject": "新規プロジェクトを作成するには「＋」をクリック",
   "greeting": {
     "morning": "おはようございます",
     "afternoon": "こんにちは",
     "evening": "こんばんは",
-    "night": "おやすみなさ]"
+    "night": "おやすみなさい"
   },
   "settings": {
     "language": "言語",
@@ -24,16 +24,16 @@
     "font": "フォント",
     "contacts": "連絡先",
     "support": "サポート",
-    "public_account": "公開アカウン]"
+    "public_account": "公開アカウント"
   },
   "stats": {
     "projects": "プロジェクト: {{started}}% 開始, {{done}}% 完了",
-    "tasks": "未完了のタスク: {{not_completed}} ({{not_completed_progress}}%]"
+    "tasks": "未完了タスク: {{not_completed}} ({{not_completed_progress}}%)"
   },
   "projects": {
     "members": "メンバー",
     "board": "タスクボード",
-    "link": "プロジェクトへのリンク",
+    "link": "プロジェクトリンク",
     "projects": "プロジェクト",
     "noSorting": "並び替えなし",
     "sortByStatus": "状態で並び替え",
@@ -43,10 +43,10 @@
     "desc": "↓",
     "newProject": "新規プロジェクト",
     "title": "プロジェクト名",
-    "about": "プロジェクトについて",
-    "deadline": "締め切り",
-    "status": "プロジェクトの状態",
-    "priority": "プロジェクトの優先度",
+    "about": "プロジェクト概要",
+    "deadline": "締切",
+    "status": "プロジェクト状態",
+    "priority": "優先度",
     "priority_low": "低",
     "priority_medium": "中",
     "priority_high": "高",
@@ -57,7 +57,7 @@
     "status_InProgress": "進行中",
     "status_OnHold": "保留中",
     "status_Completed": "完了",
-    "status_Cancelled": "キャンセ]"
+    "status_Cancelled": "キャンセル"
   },
   "navbar": {
     "homepage": "ホーム",
@@ -65,7 +65,7 @@
     "projects": "プロジェクト",
     "stats": "統計",
     "account": "アカウント",
-    "settings": "設]"
+    "settings": "設定"
   },
   "calendar": {
     "January": "1月",
@@ -86,23 +86,23 @@
     "Wed": "水",
     "Thu": "木",
     "Fri": "金",
-    "Sat": "]"
+    "Sat": "土"
   },
   "on_today": "今日の予定",
   "welcome": "OWLへようこそ",
   "success": "成功",
   "error": "エラー",
-  "loginFailed": "ログインエラー",
-  "logoutFailed": "ログアウトエラー",
+  "loginFailed": "ログインに失敗しました",
+  "logoutFailed": "ログアウトに失敗しました",
   "registrationError": "登録エラー",
   "passwordsDontMatch": "パスワードが一致しません",
-  "successfullyLoggedIn": "ログイン成功！",
-  "successfullyLoggedOut": "ログアウト成功！",
-  "usernameUpdated": "ユーザー名が更新されました！",
+  "successfullyLoggedIn": "ログインしました",
+  "successfullyLoggedOut": "ログアウトしました",
+  "usernameUpdated": "ユーザー名を更新しました",
   "failedToUpdateUsername": "ユーザー名の更新に失敗しました",
-  "emailChanged": "メールアドレスが変更されました！",
+  "emailChanged": "メールアドレスを変更しました",
   "failedToChangeEmail": "メールアドレスの変更に失敗しました",
-  "passwordChanged": "パスワードが変更されました！",
+  "passwordChanged": "パスワードを変更しました",
   "failedToChangePassword": "パスワードの変更に失敗しました",
   "saving": "保存中...",
   "save": "保存",
@@ -117,12 +117,12 @@
   "login": "ログイン",
   "loggingIn": "ログイン中...",
   "createAccount": "アカウント作成",
-  "deleteAccount": アカウントの削除",
+  "deleteAccount": "アカウント削除",
   "username": "ユーザー名",
-  "confirmPassword": "パスワード確認",
+  "confirmPassword": "パスワード（確認）",
   "terms": "利用規約",
-  "privacy": "プライバシー",
-  "agreeTerms": "利用規約に同意します",
+  "privacy": "プライバシーポリシー",
+  "agreeTerms": "利用規約に同意する",
   "register": "登録",
   "cancel": "キャンセル",
   "welcomeToOwl": "OWLへようこそ",
@@ -135,7 +135,7 @@
   "total": "合計",
   "onHold": "保留中",
   "priority": "優先度",
-  "totalProjects": "総プロジェクト数",
+  "totalProjects": "プロジェクト総数",
   "work": "作業",
   "break": "休憩",
   "reset": "リセット",
@@ -145,13 +145,13 @@
   "system": "システム",
   "options": "オプション",
   "logout": "ログアウト",
-  "changePassword": "パスワードを変更",
-  "changeEmail": "メールアドレスを変更",
-  "changeSubscriptionPlan": "サブスクリプションプランを変更",
-  "DaysBefore": "何日前",
-  "rename": "名前を変更",
+  "changePassword": "パスワード変更",
+  "changeEmail": "メールアドレス変更",
+  "changeSubscriptionPlan": "サブスクリプションプラン変更",
+  "DaysBefore": "日前",
+  "rename": "名前変更",
   "delete": "削除",
-  "changeColor": "色を変更",
+  "changeColor": "色変更",
   "open": "開く",
   "linkNotFound": "リンクが見つかりません",
   "openSourceCode": "ソースコードを開く",
@@ -164,15 +164,15 @@
     "leaderboard": "リーダーボード",
     "streak": "連続日数",
     "longestStreak": "最長連続記録",
-    "tasksCompleted": "達成したタスク",
-    "projectsCompleted": "完了したプロジェクト",
-    "experienceToNextLevel": "次のレベルまでの経験値",
+    "tasksCompleted": "完了タスク",
+    "projectsCompleted": "完了プロジェクト",
+    "experienceToNextLevel": "次のレベルまで",
     "levelUp": "レベルアップ！",
-    "achievementUnlocked": "実績解除！",
+    "achievementUnlocked": "実績を解除！",
     "questCompleted": "クエスト完了！",
-    "noAchievements": "まだ実績はありません",
+    "noAchievements": "実績はまだありません",
     "noQuests": "アクティブなクエストはありません",
-    "questProgress": "クエスト進行状況",
+    "questProgress": "クエスト進捗",
     "questTarget": "目標",
     "questReward": "報酬",
     "leaderboardRank": "順位",
@@ -185,14 +185,14 @@
     "achievementCategories": {
       "tasks": "タスク",
       "projects": "プロジェクト",
-      "streak": "連続",
-      "level": "レベ]"
+      "streak": "連続記録",
+      "level": "レベル"
     }
   },
-  "streakAchievements": "連続実績",
+  "streakAchievements": "連続記録実績",
   "userLevel": "ユーザーレベル",
   "projectAchievements": "プロジェクト実績",
-  "noAchievementsYet": "まだ実績はありません",
+  "noAchievementsYet": "実績はまだありません",
   "startWorking": "作業を開始",
   "completeProjects": "プロジェクトを完了",
   "sync": {
@@ -201,11 +201,11 @@
     "error": "同期エラー",
     "forceSync": "強制同期",
     "resetSync": "同期状態をリセット",
-    "never": "なし",
+    "never": "未同期",
     "justNow": "たった今",
     "minutesAgo": "{{minutes}}分前",
     "hoursAgo": "{{hours}}時間前",
-    "daysAgo": "{{days}}日]"
+    "daysAgo": "{{days}}日前"
   },
   "achievements": {
     "title": "実績",
@@ -215,7 +215,7 @@
     "streak": "連続記録",
     "productivity": "生産性",
     "special": "特別",
-    "progress": "進]"
+    "progress": "進捗"
   },
   "reminders": {
     "title": "リマインダー",
@@ -224,7 +224,7 @@
     "upcoming": "近日",
     "completed": "完了",
     "addNew": "リマインダーを追加",
-    "titlePlaceholder": "リマインダーのタイトル",
+    "titlePlaceholder": "リマインダータイトル",
     "descriptionPlaceholder": "説明（任意）",
     "typeCustom": "カスタム",
     "typeTask": "タスク",
@@ -239,42 +239,42 @@
     "recurringMonthly": "毎月",
     "add": "追加",
     "cancel": "キャンセル",
-    "noReminders": "リマインダーはありませ]"
+    "noReminders": "リマインダーはありません"
   },
   "templates": {
     "title": "プロジェクトテンプレート",
     "searchPlaceholder": "テンプレートを検索...",
     "noResults": "テンプレートが見つかりません",
-    "details": "テンプレートの詳細",
+    "details": "テンプレート詳細",
     "estimatedTime": "推定時間",
-    "defaultStatus": "デフォルトの状態",
+    "defaultStatus": "デフォルト状態",
     "hours": "時間",
     "useTemplate": "テンプレートを使用",
-    "cancel": "キャンセ]"
+    "cancel": "キャンセル"
   },
   "analytics": {
     "title": "分析",
-    "week": "週",
-    "month": "月",
+    "week": "週間",
+    "month": "月間",
     "quarter": "四半期",
-    "year": "年",
+    "year": "年間",
     "productivity": "生産性",
     "tasks": "タスク",
     "projects": "プロジェクト",
     "time": "時間",
-    "productivityTrend": "生産性の傾向",
-    "taskDistribution": "タスクの分布",
-    "projectStatus": "プロジェクトの状態",
-    "timeDistribution": "時間の分布",
-    "trends": "トレンド",
-    "totalTasks": "合計タスク",
-    "completedTasks": "完了したタスク",
-    "totalProjects": "合計プロジェクト",
+    "productivityTrend": "生産性の推移",
+    "taskDistribution": "タスク分布",
+    "projectStatus": "プロジェクト状況",
+    "timeDistribution": "時間分布",
+    "trends": "傾向",
+    "totalTasks": "タスク総数",
+    "completedTasks": "完了タスク",
+    "totalProjects": "プロジェクト総数",
     "focusTime": "集中時間",
     "completed": "完了",
     "pending": "保留中",
     "overdue": "期限切れ",
     "inProgress": "進行中",
-    "planned": "計画済]"
+    "planned": "計画済み"
   }
 }
