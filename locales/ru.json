@@ -33,6 +33,11 @@
   },
   "projects": {
     "members": "Участники",
+    "manageMembers": "Управление участниками",
+    "addMemberEmail": "Введите email участника",
+    "add": "Добавить",
+    "noMembers": "Нет участников",
+    "removeMember": "Удалить участника",
     "board": "Доска задач",
     "link": "Ссылка на проект",
     "projects": "Проекты",

@@ -33,6 +33,11 @@
   },
   "projects": {
     "members": "Mitglieder",
+    "manageMembers": "Mitglieder verwalten",
+    "addMemberEmail": "Mitglied-E-Mail eingeben",
+    "add": "Hinzufügen",
+    "noMembers": "Noch keine Mitglieder",
+    "removeMember": "Mitglied entfernen",
     "board": "Aufgabenboard",
     "link": "Projektlink",
     "projects": "Projekte",

@@ -33,6 +33,11 @@
   },
   "projects": {
     "members": "Members",
+    "manageMembers": "Manage members",
+    "addMemberEmail": "Enter member email",
+    "add": "Add",
+    "noMembers": "No members yet",
+    "removeMember": "Remove member",
     "board": "Task board",
     "link": "Project link",
     "projects": "Projects",
