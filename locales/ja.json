@@ -33,6 +33,11 @@
   },
   "projects": {
     "members": "メンバー",
+    "manageMembers": "メンバー管理",
+    "addMemberEmail": "メンバーのメールを入力",
+    "add": "追加",
+    "noMembers": "メンバーがいません",
+    "removeMember": "メンバーを削除",
     "board": "タスクボード",
     "link": "プロジェクトリンク",
     "projects": "プロジェクト",
