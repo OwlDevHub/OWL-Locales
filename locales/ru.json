@@ -25,7 +25,9 @@
     "contacts": "Контакты",
     "support": "Тех поддержка",
     "public_account": "Публичный аккаунт",
-    "is_animation_disabled": "Отключить анимации"
+    "is_animation_disabled": "Отключить анимации",
+    "thirdPartyNotices": "Лицензии сторонних библиотек",
+    "thirdPartyNoticesError": "Не удалось загрузить лицензии"
   },
   "stats": {
     "projects": "Проектов: {{started}}% начато, {{done}}% завершено",

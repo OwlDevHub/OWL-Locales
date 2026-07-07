@@ -25,7 +25,9 @@
     "contacts": "連絡先",
     "support": "技術サポート",
     "public_account": "公開アカウント",
-    "is_animation_disabled": "アニメーションを無効にする"
+    "is_animation_disabled": "アニメーションを無効にする",
+    "thirdPartyNotices": "サードパーティライセンス",
+    "thirdPartyNoticesError": "ライセンスの読み込みに失敗しました"
   },
   "stats": {
     "projects": "プロジェクト: {{started}}% 開始済み、{{done}}% 完了",

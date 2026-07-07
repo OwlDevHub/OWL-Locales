@@ -25,7 +25,9 @@
     "contacts": "Contacts",
     "support": "Technical support",
     "public_account": "Public account",
-    "is_animation_disabled": "Disable animations"
+    "is_animation_disabled": "Disable animations",
+    "thirdPartyNotices": "Third-party licenses",
+    "thirdPartyNoticesError": "Failed to load licenses"
   },
   "stats": {
     "projects": "Projects: {{started}}% started, {{done}}% completed",

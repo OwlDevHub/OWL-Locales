@@ -25,7 +25,9 @@
     "contacts": "Kontakte",
     "support": "Technischer Support",
     "public_account": "Öffentlicher Account",
-    "is_animation_disabled": "Animationen deaktivieren"
+    "is_animation_disabled": "Animationen deaktivieren",
+    "thirdPartyNotices": "Lizenzen Dritter",
+    "thirdPartyNoticesError": "Lizenzen konnten nicht geladen werden"
   },
   "stats": {
     "projects": "Projekte: {{started}}% begonnen, {{done}}% abgeschlossen",
