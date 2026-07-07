@@ -201,5 +201,7 @@
     "overdue": "Überfällig",
     "inProgress": "In Bearbeitung",
     "planned": "Geplant"
-  }
+  },
+  "agreeTo": "Ich akzeptiere die",
+  "and": "und"
 }

@@ -201,5 +201,7 @@
     "overdue": "期限超過",
     "inProgress": "進行中",
     "planned": "計画済み"
-  }
+  },
+  "agreeTo": "同意する",
+  "and": "と"
 }

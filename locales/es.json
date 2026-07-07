@@ -201,5 +201,7 @@
     "overdue": "Vencido",
     "inProgress": "En progreso",
     "planned": "Planificado"
-  }
+  },
+  "agreeTo": "Acepto los",
+  "and": "y"
 }
