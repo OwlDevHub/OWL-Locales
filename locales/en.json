@@ -8,8 +8,11 @@
     "evening": "Good\nevening",
     "night": "Good\nnight"
   },
+  "newVersion": "New Version",
+  "upToDate": "Up to date",
   "settings": {
     "language": "Language",
+    "download": "Download",
     "theme": "Theme",
     "appearance": "Appearance",
     "general": "General",

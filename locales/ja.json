@@ -8,8 +8,11 @@
     "evening": "こんばんは",
     "night": "おやすみ\nなさい"
   },
+  "newVersion": "新しいバージョン",
+  "upToDate": "最新です",
   "settings": {
     "language": "言語",
+    "download": "ダウンロード",
     "theme": "テーマ",
     "appearance": "外観",
     "general": "一般",

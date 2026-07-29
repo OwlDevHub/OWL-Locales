@@ -8,8 +8,11 @@
     "evening": "Guten\nAbend",
     "night": "Gute\nNacht"
   },
+  "newVersion": "Neue Version",
+  "upToDate": "Auf dem neuesten Stand",
   "settings": {
     "language": "Sprache",
+    "download": "Herunterladen",
     "theme": "Thema",
     "appearance": "Erscheinungsbild",
     "general": "Allgemein",

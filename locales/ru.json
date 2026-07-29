@@ -8,8 +8,11 @@
     "evening": "Добрый\nвечер",
     "night": "Доброй\nночи"
   },
+  "newVersion": "Новая версия",
+  "upToDate": "Обновлений нет",
   "settings": {
     "language": "Язык",
+    "download": "Скачать",
     "theme": "Тема",
     "appearance": "Внешний вид",
     "general": "Основные",
