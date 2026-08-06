@@ -170,6 +170,16 @@
   "openSourceCode": "プロジェクトページを開く",
   "startWorking": "作業を開始してください",
   "completeProjects": "プロジェクトを完了してください",
+  "taskActions": {
+    "edit": "編集されました",
+    "assign": "担当者が設定されました",
+    "complete": "完了しました",
+    "reopen": "再開されました",
+    "change_column": "別の列に移動されました",
+    "change_color": "色が変更されました",
+    "change_order": "順序が変更されました",
+    "change_deadline": "期限が変更されました"
+  },
   "sync": {
     "syncing": "同期中...",
     "lastSync": "最終同期:",

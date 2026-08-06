@@ -170,6 +170,16 @@
   "openSourceCode": "Abrir página del proyecto",
   "startWorking": "Comience a trabajar",
   "completeProjects": "Complete proyectos",
+  "taskActions": {
+    "edit": "Editado",
+    "assign": "Asignado",
+    "complete": "Completada",
+    "reopen": "Reabierta",
+    "change_column": "Movida a otra columna",
+    "change_color": "Color cambiado",
+    "change_order": "Orden cambiado",
+    "change_deadline": "Plazo cambiado"
+  },
   "sync": {
     "syncing": "Sincronizando...",
     "lastSync": "Última sincronización:",

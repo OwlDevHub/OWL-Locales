@@ -170,6 +170,16 @@
   "openSourceCode": "Открыть страницу проекта",
   "startWorking": "Начните работать",
   "completeProjects": "Завершите проекты",
+  "taskActions": {
+    "edit": "Изменено",
+    "assign": "Назначен исполнитель",
+    "complete": "Завершена",
+    "reopen": "Открыта заново",
+    "change_column": "Перемещена в другую колонку",
+    "change_color": "Изменён цвет",
+    "change_order": "Изменён порядок",
+    "change_deadline": "Изменён срок"
+  },
   "sync": {
     "syncing": "Синхронизация...",
     "lastSync": "Последняя синхронизация:",
