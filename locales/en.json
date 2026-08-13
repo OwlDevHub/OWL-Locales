@@ -170,6 +170,7 @@
   "openSourceCode": "Open project page",
   "startWorking": "Start working",
   "completeProjects": "Complete projects",
+  "clickToCopy": "Click to copy",
   "taskActions": {
     "edit": "Edited",
     "assign": "Assigned",

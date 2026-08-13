@@ -170,6 +170,7 @@
   "openSourceCode": "Открыть страницу проекта",
   "startWorking": "Начните работать",
   "completeProjects": "Завершите проекты",
+  "clickToCopy": "Нажмите, чтобы скопировать",
   "taskActions": {
     "edit": "Изменено",
     "assign": "Назначен исполнитель",

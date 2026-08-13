@@ -170,6 +170,7 @@
   "openSourceCode": "プロジェクトページを開く",
   "startWorking": "作業を開始してください",
   "completeProjects": "プロジェクトを完了してください",
+  "clickToCopy": "クリックしてコピー",
   "taskActions": {
     "edit": "編集されました",
     "assign": "担当者が設定されました",
