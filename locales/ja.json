@@ -10,6 +10,7 @@
   },
   "newVersion": "新しいバージョン",
   "upToDate": "最新です",
+  "publicUsers": "公開ユーザー",
   "settings": {
     "language": "言語",
     "download": "ダウンロード",
