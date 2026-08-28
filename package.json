@@ -1,10 +1,14 @@
 {
   "name": "owl-locales",
   "version": "1.8.0",
-  "description": "Localization files for THE OWL PROJECT (en, ru, de, es, ja)",
+  "description": "Localization files for THE OWL PROJECT",
   "license": "MIT",
   "main": "index.js",
   "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate-index.mjs",
+    "prepack": "npm run generate"
+  },
   "files": [
     "locales/",
     "index.js"
