@@ -301,5 +301,15 @@
   "loginTime": "Time",
   "timezone": "Timezone",
   "platform": "Platform",
-  "noLoginHistory": "No login history yet"
+  "noLoginHistory": "No login history yet",
+  "security": "Security",
+  "subscription": "Subscription",
+  "actions": "Actions",
+  "edit": "Edit",
+  "account": {
+    "pleaseLogin": "Please log in to view your account"
+  },
+  "failedToFetchSubscription": "Failed to fetch subscription",
+  "failedToLoadSubscriptionPlans": "Failed to load subscription plans",
+  "invalidDataFormat": "Invalid data format received from server"
 }

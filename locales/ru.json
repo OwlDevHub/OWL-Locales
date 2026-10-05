@@ -301,5 +301,15 @@
   "loginTime": "Время",
   "timezone": "Часовой пояс",
   "platform": "Платформа",
-  "noLoginHistory": "История входов пуста"
+  "noLoginHistory": "История входов пуста",
+  "security": "Безопасность",
+  "subscription": "Подписка",
+  "actions": "Действия",
+  "edit": "Редактировать",
+  "account": {
+    "pleaseLogin": "Войдите, чтобы просмотреть аккаунт"
+  },
+  "failedToFetchSubscription": "Не удалось получить данные о подписке",
+  "failedToLoadSubscriptionPlans": "Не удалось загрузить тарифы",
+  "invalidDataFormat": "Получен неверный формат данных с сервера"
 }

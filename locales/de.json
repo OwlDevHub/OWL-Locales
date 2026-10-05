@@ -301,5 +301,15 @@
   "loginTime": "Zeit",
   "timezone": "Zeitzone",
   "platform": "Plattform",
-  "noLoginHistory": "Noch keine Logins"
+  "noLoginHistory": "Noch keine Logins",
+  "security": "Sicherheit",
+  "subscription": "Abonnement",
+  "actions": "Aktionen",
+  "edit": "Bearbeiten",
+  "account": {
+    "pleaseLogin": "Bitte melden Sie sich an, um Ihr Konto zu sehen"
+  },
+  "failedToFetchSubscription": "Abonnement konnte nicht abgerufen werden",
+  "failedToLoadSubscriptionPlans": "Abonnementpläne konnten nicht geladen werden",
+  "invalidDataFormat": "Ungültiges Datenformat vom Server empfangen"
 }

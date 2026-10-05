@@ -301,5 +301,15 @@
   "loginTime": "日時",
   "timezone": "タイムゾーン",
   "platform": "プラットフォーム",
-  "noLoginHistory": "履歴がありません"
+  "noLoginHistory": "履歴がありません",
+  "security": "セキュリティ",
+  "subscription": "サブスクリプション",
+  "actions": "操作",
+  "edit": "編集",
+  "account": {
+    "pleaseLogin": "アカウントを表示するにはログインしてください"
+  },
+  "failedToFetchSubscription": "サブスクリプションの取得に失敗しました",
+  "failedToLoadSubscriptionPlans": "サブスクリプションプランの読み込みに失敗しました",
+  "invalidDataFormat": "サーバーから無効なデータ形式が返されました"
 }

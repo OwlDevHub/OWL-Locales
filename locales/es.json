@@ -301,5 +301,15 @@
   "loginTime": "Hora",
   "timezone": "Zona horaria",
   "platform": "Plataforma",
-  "noLoginHistory": "Sin historial todavía"
+  "noLoginHistory": "Sin historial todavía",
+  "security": "Seguridad",
+  "subscription": "Suscripción",
+  "actions": "Acciones",
+  "edit": "Editar",
+  "account": {
+    "pleaseLogin": "Inicia sesión para ver tu cuenta"
+  },
+  "failedToFetchSubscription": "No se pudo obtener la suscripción",
+  "failedToLoadSubscriptionPlans": "No se pudieron cargar los planes de suscripción",
+  "invalidDataFormat": "Formato de datos inválido recibido del servidor"
 }
