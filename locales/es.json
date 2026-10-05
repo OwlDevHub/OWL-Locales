@@ -296,5 +296,10 @@
   "and": "y",
   "activity": {
     "tasksCompleted": "tareas"
-  }
+  },
+  "loginHistory": "Historial de accesos",
+  "loginTime": "Hora",
+  "timezone": "Zona horaria",
+  "platform": "Plataforma",
+  "noLoginHistory": "Sin historial todavía"
 }

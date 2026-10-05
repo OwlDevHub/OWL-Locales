@@ -296,5 +296,10 @@
   "and": "и",
   "activity": {
     "tasksCompleted": "задач"
-  }
+  },
+  "loginHistory": "История входов",
+  "loginTime": "Время",
+  "timezone": "Часовой пояс",
+  "platform": "Платформа",
+  "noLoginHistory": "История входов пуста"
 }

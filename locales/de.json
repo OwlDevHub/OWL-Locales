@@ -296,5 +296,10 @@
   "and": "und",
   "activity": {
     "tasksCompleted": "Aufgaben"
-  }
+  },
+  "loginHistory": "Login-Verlauf",
+  "loginTime": "Zeit",
+  "timezone": "Zeitzone",
+  "platform": "Plattform",
+  "noLoginHistory": "Noch keine Logins"
 }

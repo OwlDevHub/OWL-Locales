@@ -296,5 +296,10 @@
   "and": "と",
   "activity": {
     "tasksCompleted": "タスク"
-  }
+  },
+  "loginHistory": "ログイン履歴",
+  "loginTime": "日時",
+  "timezone": "タイムゾーン",
+  "platform": "プラットフォーム",
+  "noLoginHistory": "履歴がありません"
 }
