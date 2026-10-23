@@ -311,5 +311,9 @@
   },
   "failedToFetchSubscription": "サブスクリプションの取得に失敗しました",
   "failedToLoadSubscriptionPlans": "サブスクリプションプランの読み込みに失敗しました",
-  "invalidDataFormat": "サーバーから無効なデータ形式が返されました"
+  "invalidDataFormat": "サーバーから無効なデータ形式が返されました",
+  "changeUsername": "ユーザー名を変更",
+  "loginDate": "日付",
+  "ipAddress": "IPアドレス",
+  "failedToFetchLoginHistory": "ログイン履歴を取得できませんでした"
 }

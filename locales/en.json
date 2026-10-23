@@ -311,5 +311,9 @@
   },
   "failedToFetchSubscription": "Failed to fetch subscription",
   "failedToLoadSubscriptionPlans": "Failed to load subscription plans",
-  "invalidDataFormat": "Invalid data format received from server"
+  "invalidDataFormat": "Invalid data format received from server",
+  "changeUsername": "Change username",
+  "loginDate": "Date",
+  "ipAddress": "IP address",
+  "failedToFetchLoginHistory": "Failed to fetch login history"
 }

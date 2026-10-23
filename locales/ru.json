@@ -311,5 +311,9 @@
   },
   "failedToFetchSubscription": "Не удалось получить данные о подписке",
   "failedToLoadSubscriptionPlans": "Не удалось загрузить тарифы",
-  "invalidDataFormat": "Получен неверный формат данных с сервера"
+  "invalidDataFormat": "Получен неверный формат данных с сервера",
+  "changeUsername": "Изменить имя пользователя",
+  "loginDate": "Дата",
+  "ipAddress": "IP-адрес",
+  "failedToFetchLoginHistory": "Не удалось загрузить историю входов"
 }

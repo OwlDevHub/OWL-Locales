@@ -311,5 +311,9 @@
   },
   "failedToFetchSubscription": "Abonnement konnte nicht abgerufen werden",
   "failedToLoadSubscriptionPlans": "Abonnementpläne konnten nicht geladen werden",
-  "invalidDataFormat": "Ungültiges Datenformat vom Server empfangen"
+  "invalidDataFormat": "Ungültiges Datenformat vom Server empfangen",
+  "changeUsername": "Benutzername ändern",
+  "loginDate": "Datum",
+  "ipAddress": "IP-Adresse",
+  "failedToFetchLoginHistory": "Anmeldeverlauf konnte nicht geladen werden"
 }

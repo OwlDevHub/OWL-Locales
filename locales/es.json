@@ -311,5 +311,9 @@
   },
   "failedToFetchSubscription": "No se pudo obtener la suscripción",
   "failedToLoadSubscriptionPlans": "No se pudieron cargar los planes de suscripción",
-  "invalidDataFormat": "Formato de datos inválido recibido del servidor"
+  "invalidDataFormat": "Formato de datos inválido recibido del servidor",
+  "changeUsername": "Cambiar nombre de usuario",
+  "loginDate": "Fecha",
+  "ipAddress": "Dirección IP",
+  "failedToFetchLoginHistory": "No se pudo obtener el historial de inicio de sesión"
 }
